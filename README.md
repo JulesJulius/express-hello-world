@@ -10,6 +10,6 @@ See https://render.com/docs/deploy-node-express-app or follow the steps below:
 
 Create a new web service with the following values:
   * Build Command: `yarn`
-  * Start Command: `node app.js`
+  * Start Command: `node index.js`
 
 That's it! Your web service will be live on your Render URL as soon as the build finishes.
